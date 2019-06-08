@@ -1,0 +1,6 @@
+{
+  "extends": ["htmlvalidate:recommended"],
+  "transform": {
+    "^.*\\.md$": "html-validate-markdown"
+  }
+}
